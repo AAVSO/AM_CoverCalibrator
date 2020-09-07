@@ -1,0 +1,8 @@
+notes on the CoverCalibrator
+
+
+- reference software for the mega board:
+https://github.com/RobotDynOfficial/Sketches-for-MEGA-2560-ETH-R3-with-ATmega2560-W5500/blob/master/Sketches-for-MEGA-2560-ETH-R3-with-ATmega2560-W5500-Example-1.ino
+
+
+
